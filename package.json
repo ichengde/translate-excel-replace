@@ -1,0 +1,35 @@
+{
+  "name": "translate-excel-replace",
+  "version": "1.0.0",
+  "description": "A tool for translating excel",
+  "main": "index.js",
+  "scripts": {
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ichengde/translate-excel-replace.git"
+  },
+  "keywords": [
+    "translate",
+    "translator",
+    "google",
+    "translate"
+  ],
+  "author": {
+    "name": "chegde",
+    "email": "chegde@foxmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ichengde/translate-excel-replace/issues"
+  },
+  "homepage": "https://github.com/ichengde/translate-excel-replace#readme",
+  "dependencies": {
+    "configstore": "^2.0.0",
+    "got": "^6.3.0",
+    "safe-eval": "^0.3.0",
+    "xlsx": "^0.8.3"
+  },
+  "devDependencies": {}
+}
